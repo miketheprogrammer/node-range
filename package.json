@@ -1,0 +1,25 @@
+{
+  "name": "node-range",
+  "version": "0.0.1",
+  "description": "Simple Lazy Ranges for Node/Javascript",
+  "main": "range.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/miketheprogrammer/node-range.git"
+  },
+  "keywords": [
+    "range",
+    "node",
+    "lazy",
+    "map",
+    "foreach"
+  ],
+  "author": "Michael Hernandez < http://miketheprogrammer.com >",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketheprogrammer/node-range/issues"
+  }
+}
