@@ -1,4 +1,4 @@
-function range(a, b) {
+module.exports = function range(a, b) {
     return { 
 	map: function map(func) {
 	    var arr = []
