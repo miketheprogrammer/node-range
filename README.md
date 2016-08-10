@@ -12,7 +12,7 @@ npm install node-range
   array composition and function application in same step
 */
 var arr = range(1,11).map(function(i) {
-    return i*5
+    return i * 5
 })
 console.log(arr)
 
@@ -20,7 +20,7 @@ console.log(arr)
 You can still do
 */
 arr = range(1,11).toArray().map(function(i) {
-    return i*2
+    return i * 2
 })
 console.log(arr)
 
